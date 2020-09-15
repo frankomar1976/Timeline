@@ -1,0 +1,36 @@
+#main{
+  background:#92CCF5;
+  margin:10px 2px;
+}
+#title{
+  text-align:center;
+  padding-top:50px;
+}
+#img-div{
+ text-align:center;
+  background:white;
+  margin:15px 15px;
+  padding-bottom:20px;
+}
+#image{
+  padding-top:50px;
+  width:85%;
+  height:500px;
+    border-radius:10px;
+}
+#linea{
+  text-align:center;
+  font-weight:bold;
+}
+#linea1{
+  text-align:justify;
+  margin:20px 300px;
+  padding-bottom:30px;
+}
+#linea2{
+  text-align:center;
+}
+#linea3{
+  text-align:center;
+  padding-bottom:30px;
+}
